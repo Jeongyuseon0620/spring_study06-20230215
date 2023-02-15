@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>게시판 홈페이지</title>
 </head>
 <body>
-
+	<h1><a href="list">자유게시판 이동하기</a></h1>
 </body>
 </html>
